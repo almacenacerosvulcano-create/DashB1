@@ -47,7 +47,7 @@ for col in columnas_numericas:
 
 # Validar columnas requeridas
 columnas_requeridas = [
-    "Documento", "Salida", "Numero", "Fecha", "Est.",
+    "Documento", "Salida", "Doc.", "Numero", "Fecha", "Est.",
     "Articulo", "Descripcion", "Linea", "Cantidad",
     "Precio", "Importe", "Peso X Pza", "Peso Total"
 ]
